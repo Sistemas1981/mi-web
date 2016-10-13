@@ -1,3 +1,3 @@
 <html>
-  archivo con texto
+  <? echo "prueba de envio"; ?>
 </html>
