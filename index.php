@@ -1,3 +1,3 @@
 <html>
-  archivo con texto
+  <? echo "pueba html"; ?>
 </html>
